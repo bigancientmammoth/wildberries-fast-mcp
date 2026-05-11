@@ -1,0 +1,4 @@
+.idea
+dist
+__pycache__
+wildberries_fast_mcp.egg-info
